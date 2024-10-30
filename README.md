@@ -14,17 +14,13 @@ This project is a simple and customizable React component that allows users to t
 
 The main component is defined in `Tabs.js`, containing a list of tabs and associated content. The component uses React's `useState` hook to manage active tabs and display content based on the selected tab.
 
-## Demo
-
-![Demo GIF or Screenshot here, if available]
-
 ## Installation
 
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/asero13th/react-tabs
+   cd react-tabs
    ```
 
 2. **Install dependencies**:
